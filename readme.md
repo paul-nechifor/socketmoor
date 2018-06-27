@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/socketmoor](http://gitlab.com/paul-nechifor/socketmoor).
+
+Old readme:
+
 # Socketmoor
 
 A very basic framework for room-based WebSocket communication meant for games.
